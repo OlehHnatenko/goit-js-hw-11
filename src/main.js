@@ -37,7 +37,7 @@ function onSubmit(evt) {
         message: error.message,
         position: "topRight"
     })). finally(() => hideLoader());
-console.log(gallery);
+
 
 }
 
